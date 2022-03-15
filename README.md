@@ -19,8 +19,8 @@ My name is Samuel.
   <img src="" alt="linkedin" style="vertical-align:top; margin:4px">
 </a> -->
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagzain&layout=compact&theme=dark)]
+<!-- ## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagzain&layout=compact&theme=dark)] -->
 
 ## Github Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagzain&show_icons=true&theme=dark&hide=prs)
