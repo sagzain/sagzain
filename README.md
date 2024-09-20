@@ -4,7 +4,7 @@
 
 My name is Samuel.
 
-- 🔭 I’m currently working at [Estudiofuture](http://estudiofuture.com/es/) as a Unity Developer Junior.
+- 🔭 I’m currently working at [EF Games](https://ef.games/) as a Unity Developer.
 - 🌱 I’m learning Game Development, 3D Modelling and Virtual Reality.
 - 🤔 I’m looking for help with 3D Modelling.
 - 💬 Ask me about Unity and C#.
