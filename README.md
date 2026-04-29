@@ -5,8 +5,7 @@
 My name is Samuel.
 
 - 🔭 I’m currently working at [EF Games](https://ef.games/) as a Unity Developer.
-- 🌱 I’m learning Game Development, 3D Modelling and Virtual Reality.
-- 🤔 I’m looking for help with 3D Modelling.
+- 🌱 I’m learning Game Development and 3D Modelling.
 - 💬 Ask me about Unity and C#.
 - ⚡ Fun fact: I like to draw, read books and play videogames.
 <!-- - 👯 I’m looking to collaborate on ... -->
